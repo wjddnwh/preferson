@@ -41,3 +41,11 @@
   .about__description {
     margin-bottom: 2rem;
   }
+
+  .about__description b {
+    color: white;
+  }
+
+  .about__description br {
+    margin-bottom: 2px;
+  }
